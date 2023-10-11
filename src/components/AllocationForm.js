@@ -16,6 +16,12 @@ const AllocationForm = (props) => {
                 return;
             }
 
+            /*if(remaining<0){
+                alert ("You cannot reduce the budget value lower than the spending");
+                setCost("");
+                return;
+            }*/
+
         const expense = {
             name: name,
             cost: parseInt(cost),
