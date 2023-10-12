@@ -1,0 +1,50 @@
+.my-style {
+    background-color: lightgreen;
+    padding: 15px;
+    color: white;
+
+  }
+
+  /* Style the dropdown content (the hidden part) */
+.dropdown-content {
+    position: absolute;
+    background-color: lightgreen;
+    color: white;
+    border: none;
+
+  }
+  .wid{
+        width:120px;
+  }
+  /* Style individual dropdown items */
+  .dropdown-item {
+    color: black;
+    background-color:lightgreen;
+  }
+  
+  /* Change item background on hover */
+  .dropdown-item:hover {
+    background-color:white;
+    color:black
+  }
+
+  .butt{
+    width:41px; height:41px;
+    background-image: url(https://i.ibb.co/yqZXs3t/Screenshot-2023-10-12-125156.png);
+   background-size: contain;
+   border:none;
+   background-position: center ;
+   background-repeat: no-repeat;
+   
+   color: rgba(0, 0, 0, 0.0);
+}
+  .butt2{
+    width:41px; height:41px;
+    background-image: url(https://i.ibb.co/Z8tNFF4/Screenshot-2023-10-12-125805.png);
+   background-size: contain;
+   border:none;
+   background-position: center ;
+   background-repeat: no-repeat;
+   
+   color: rgba(0, 0, 0, 0.0);
+}
